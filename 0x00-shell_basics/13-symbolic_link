@@ -4,3 +4,5 @@ ls -s ~/__ls__ ~/bin/ls
 ls -s /bin/ls__ls__ ~/bin/ls 
 #!/bin/bash
 ls -s /__ls__ ~/bin/ls 
+#!/bin/bash
+ls -s ~/__ls__ ~/bin/ls 
